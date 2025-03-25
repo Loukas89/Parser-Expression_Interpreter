@@ -1,0 +1,20 @@
+Arithmetic Expression Examples
+
+Simple addition and subtraction
+2 + 3
+10 - 5
+
+Multiplication and division with precedence
+4 * 5 + 2
+10 / (5 - 3)
+
+Unary negation and parentheses
+-7 + (8 - 2)
+- -3
+
+Exponentiation and modulus
+2 ^ 3
+10 % 3
+
+Complex arithmetic expression
+(3 + 5) * (2 - 1) / 4 ^ 2

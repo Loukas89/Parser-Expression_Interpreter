@@ -1,0 +1,22 @@
+# Boolean Expression Examples
+
+# Simple Boolean operations
+true and false
+!true
+false or true
+
+# Boolean comparisons
+true == false
+true != false
+
+# Numeric comparisons
+5 > 2
+3 <= 3
+
+# Complex Boolean expressions
+(5 > 3) and !(false or false)
+!(true and false) == true
+
+# Invalid expressions (demonstrating error handling)
+true + 5
+false < 1

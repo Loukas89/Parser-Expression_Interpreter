@@ -1,0 +1,20 @@
+Enter a mathematical expression (or 'exit' to quit): 5 + 4 * 2
+Result: 13.0
+
+Enter a mathematical expression (or 'exit' to quit): (10 - 2) / 4
+Result: 2.0
+
+Enter a mathematical expression (or 'exit' to quit): true and !false
+Result: True
+
+Enter a mathematical expression (or 'exit' to quit): 3 < false
+Error: '<' cannot compare FLOAT and BOOL
+
+Enter a mathematical expression (or 'exit' to quit): !(5 > 3)
+Result: False
+
+Enter a mathematical expression (or 'exit' to quit): true + 1
+Error: '+' cannot operate on BOOL and FLOAT
+
+Enter a mathematical expression (or 'exit' to quit): exit
+Program exited.
